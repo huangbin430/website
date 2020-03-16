@@ -3,7 +3,8 @@
 * 在passwall插件运行中状态下，如果修改LAN口的静态IP，可能会导致无法上网。重启passwall插件或者重启固件即可解决！         
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：                 
 [https://youtu.be/qkga9DN5H08](https://youtu.be/qkga9DN5H08)        
-* passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)             
+* passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)      
+* PassWall+SmartDNS+ChinaDNS-NG搭配：[教程](https://youtu.be/vqAeeLbqvOs)         
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：      
 [https://youtu.be/c4HSZzTM7G0](https://youtu.be/c4HSZzTM7G0)         
 * 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：      
