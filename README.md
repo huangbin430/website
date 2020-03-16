@@ -7,6 +7,7 @@
 * passwall固件教程：[教程](./tips.md)           
 * passwall固件源码：[源码](./code.md)                         
 * 推荐机场：暂无            
-（推荐标准：有IPLC韩国视频节点、支持月付。本站只推荐一个相比最好的，当节点波动且不及时优化时，会更换推荐。机场主可以联系：[群管理](https://t.me/wefuxkgfw)参与竞标）              
+（推荐标准：有IPLC韩国视频节点、支持月付。本站只推荐一个相比最好的，当节点波动且不及时优化时，会更换推荐。机场主可以联系：[群管理](https://t.me/wefuxkgfw)参与竞标）                 
+[![](https://pic.downk.cc/item/5e6f62a0e83c3a1e3a8812e2.jpg)](https://pic.downk.cc/item/5e6f62a0e83c3a1e3a8812e2.jpg)             
         
         
