@@ -1,4 +1,5 @@
-本页面最近一次更新时间：2020.03.16                   
+本页面最近一次更新时间：2020.03.16        
+passwall目前支持：socks5、ss、ssr、v2ray、v2ray负载均衡、v2ray分流、brook、trojan                        
 * passwall固件主频道：[主频道](https://t.me/passwall)                            
 * passwall固件分频道：[分频道](./sub.md)           
 * passwall固件教程：[教程](./tips.md)           
