@@ -13,13 +13,13 @@
 * 始终无法连接到软路由网络、始终无网络：[可能解决办法](./winproxy.md)               
 * 测速：[注意事项](./speed.md)        
 * ipv6：[注意事项](./ipv6.md)               
-* 小提示：使用负载均衡同样可以实现故障切换的功能                
-* passwall的恢复默认配置方法：地址栏输入例： 
-  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/reset_config             
-  passwall的隐藏菜单方法：地址栏输入例： 
-  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/hide              
-  当你隐藏后想再次显示，地址栏输入例： 
-  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/show                      
+* 小提示：使用负载均衡同样可以实现故障切换的功能                         
+* passwall的恢复默认配置方法：地址栏输入例：                      
+  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/reset_config                   
+  passwall的隐藏菜单方法：地址栏输入例：                 
+  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/hide                            
+  当你隐藏后想再次显示，地址栏输入例：                  
+  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/show               
 * 基于Chromium内核的浏览器建议关闭QUIC：[教程](https://www.echoteen.com/turnoff-quic.html)               
-* 修改win10的tcp配置参数来提升打开youtube的速度：[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)              
+* 修改win10的tcp配置参数来提升打开youtube的速度：[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)                
 
