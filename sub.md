@@ -26,8 +26,10 @@
 【小米全系列】：            
 [https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ](https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ)                  
 【极3】：         
-[https://t.me/joinchat/AAAAAFf3b1ADepI-pIATDQ](https://t.me/joinchat/AAAAAFf3b1ADepI-pIATDQ)                
-                    
+[https://t.me/joinchat/AAAAAFf3b1ADepI-pIATDQ](https://t.me/joinchat/AAAAAFf3b1ADepI-pIATDQ)      
+【yk1】：        
+[https://t.me/joinchat/AAAAAFY2yhi7q04J7iu9dw](https://t.me/joinchat/AAAAAFY2yhi7q04J7iu9dw)              
+
 等待更多热心大佬申请建立新的频道......                  
 
 
