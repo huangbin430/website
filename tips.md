@@ -1,3 +1,4 @@
+[返回到首页](https://passwallopenwrt.github.io/website/)                 
 * 开源项目，没有团队负责内测，每次提交完代码都是大家公测。你能正常用老版本就没必要追更新！
 * 不保留配置升级：[图文](./upgrade.md)                 
 * 请务必保持启用passwall的高级设置里的守护进程！      
