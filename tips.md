@@ -20,13 +20,14 @@
 * upnp：如果无法使用，尝试“启用 IGDv1 模式”勾选或不勾选           
 * 多线多拨：如果失败，尝试“使用旧的macvlan创建方式”勾选或不勾选              
 ------------------------------------------------------------------------------------------------------------
-* 小提示：使用负载均衡同样可以实现故障切换的功能                         
+* 小提示：使用负载均衡同样可以实现故障切换的功能          
 * passwall的恢复默认配置方法：地址栏输入例：                      
-  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/reset_config                   
+  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/reset_config        
   passwall的隐藏菜单方法：地址栏输入例：                 
   http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/hide                            
   当你隐藏后想再次显示，地址栏输入例：                  
-  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/show               
+  http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/show                 
+  
   ------------------------------------------------------------------------------------------------------------
 * WIFI信号觉得不好？：首先请关闭使用5G优选（智能选频），然后2.4G信号锁死在20MHz，5G信号锁死在你的手机等设备支持到的最高的即可（最近160MHz的也都开始普及了...），这样你离天线远时手动连2.4G信号，离得近时手动连5G信号                  
 * 基于Chromium内核的浏览器建议关闭QUIC：[教程](https://www.echoteen.com/turnoff-quic.html)               
