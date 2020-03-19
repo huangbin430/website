@@ -22,10 +22,11 @@
 【作者：luckyyyyy】     
 * 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：[教程](https://github.com/luckyyyyy/blog/issues/44)        
 ------------------------------------------------------------------------------------------------------------    
-【作者：IT奶爸】        
+【作者：IT奶爸】【请注意按顺序看，后期可能会推翻前期的结论...】                       
 * ①passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)             
 * ②PassWall SmartDNS ChinaDNS-NG：[教程](https://youtu.be/vqAeeLbqvOs)             
-* ③
+* ③PassWall&SmartDNS&CDN：[教程](https://youtu.be/nGNoG1rV6pw)          
+* ④
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：[教程](https://youtu.be/qkga9DN5H08)               
 *        
 * PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)         
