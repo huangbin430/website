@@ -28,9 +28,7 @@
 * ③PassWall&SmartDNS&CDN：[教程](https://youtu.be/nGNoG1rV6pw)             
 * ④passwall smartdns终极奥义...：[教程](https://youtu.be/rfotrfMJ9QM)              
 * ⑤不允许访客使用代理、自由指定不同客户端使用不同线路（盒子看Netflix）：[教程](https://youtu.be/qkga9DN5H08)        
-*              
-*        
-* PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)         
+* ⑥PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)                    
 -------------------------------------------------------------------------------------------------------------
 * 小提示：使用负载均衡同样可以实现故障切换的功能          
 * passwall的恢复默认配置方法：地址栏输入例：                      
