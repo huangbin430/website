@@ -7,7 +7,7 @@
 * passwall固件教程：[教程](./tips.md)           
 * passwall固件源码：[源码](./code.md)          
 * [优选机场](./air.md)               
-![](https://pic.downk.cc/item/5e6f62a0e83c3a1e3a8812e2.jpg)                     
+![李沁](https://pic.downk.cc/item/5e6f62a0e83c3a1e3a8812e2.jpg)                     
                   
     
         
