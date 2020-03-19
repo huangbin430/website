@@ -6,8 +6,9 @@
 * 在passwall插件运行中状态下，如果修改LAN口的静态IP，可能会导致无法上网。重启passwall插件或者重启固件即可解决！         
 
 ------------------------------------------------------------------------------------------------------------   
-* passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)             
-* 
+* ①passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)             
+* ②PassWall SmartDNS ChinaDNS-NG：[教程](https://youtu.be/vqAeeLbqvOs)             
+* ③
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：[教程](https://youtu.be/qkga9DN5H08)               
 *        
 * PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)                      
