@@ -6,8 +6,7 @@
 * 在passwall插件运行中状态下，如果修改LAN口的静态IP，可能会导致无法上网。重启passwall插件或者重启固件即可解决！         
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：[教程](https://youtu.be/qkga9DN5H08)             
 * passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)        
-* passwall的DNS劫持已经默认由防火墙自定义规则实现了，已经默认劫持了！              
-* PassWall+SmartDNS+ChinaDNS-NG搭配：[教程](https://youtu.be/vqAeeLbqvOs)         
+* PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)            
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：[教程](https://youtu.be/c4HSZzTM7G0)         
 * 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：[教程](https://github.com/luckyyyyy/blog/issues/44)                  
 * 手动单独更新passwall按钮不要一直使用，当出问题后还是需要完整不保留配置刷入最新完整固件的，否则依赖包不会更新，无法修复bug和获得优化体验        
