@@ -26,7 +26,9 @@
 * ①passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)             
 * ②PassWall SmartDNS ChinaDNS-NG：[教程](https://youtu.be/vqAeeLbqvOs)             
 * ③PassWall&SmartDNS&CDN：[教程](https://youtu.be/nGNoG1rV6pw)             
-* ④
+* ④passwall smartdns终极奥义...：[教程](https://youtu.be/rfotrfMJ9QM)              
+* ⑤
+
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：[教程](https://youtu.be/qkga9DN5H08)               
 *        
 * PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)         
