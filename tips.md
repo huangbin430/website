@@ -21,7 +21,7 @@
   http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/hide                            
   当你隐藏后想再次显示，地址栏输入例：                  
   http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/show        
-* WIFI信号觉得不好？：请不要使用多频合一，2.4G信号锁死在20MHz，5G信号锁死在80MHz，这样你离天线远时连2.4G信号，离得近时连5G信号              
+* WIFI信号觉得不好？：首先请关闭使用5G优选（智能选频），然后2.4G信号锁死在20MHz，5G信号锁死在80MHz，这样你离天线远时手动连2.4G信号，离得近时手动连5G信号                  
 * 基于Chromium内核的浏览器建议关闭QUIC：[教程](https://www.echoteen.com/turnoff-quic.html)               
 * 修改win10的tcp配置参数来提升打开youtube的速度：[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)                
 
