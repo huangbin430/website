@@ -1,3 +1,4 @@
+此页面最近一次更新时间：2020.03.19              
 [返回到首页](https://passwallopenwrt.github.io/website/)                 
 ① [https://github.com/Lienol/openwrt/tree/dev-19.07](https://github.com/Lienol/openwrt/tree/dev-19.07)                     
 基于官方openwrt的fork，使用luci18，默认分支。        
@@ -21,7 +22,7 @@ Target Profile (Generic) —->目标配置文件（通用）
 Target Images —-> 保存目标镜像的格式            
 Global build settings —-> 全局构建设置           
 Advanced configuration options (for developers) —— 高级配置选项（适用于开发人员）              
-Build the OpenWrt Image Builder 构建OpenWrt图像生成器                
+Build the OpenWrt Image Builder 构建OpenWrt镜像生成器                
 Build the OpenWrt SDK构建OpenWrt SDK             
 Package the OpenWrt-based Toolchain打包基于OpenWrt的工具链                
 Image configuration —->图像配置                 
