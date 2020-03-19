@@ -1,5 +1,6 @@
 此页面最近一次更新时间：2020.03.19              
-[返回到首页](https://passwallopenwrt.github.io/website/)                 
+[返回到首页](https://passwallopenwrt.github.io/website/)          
+请在源码的issues区反馈，注意带上passwall的日志，DNS玩出事的issue直接关闭，你用的固件的源码分支也要说清楚                     
 ① [https://github.com/Lienol/openwrt/tree/dev-19.07](https://github.com/Lienol/openwrt/tree/dev-19.07)                     
 基于官方openwrt的fork，使用luci18，默认分支。        
 支持官方openwrt支持的型号设备。            
