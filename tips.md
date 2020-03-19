@@ -14,13 +14,16 @@
 * 多线多拨：如果失败，尝试“使用旧的macvlan创建方式”勾选或不勾选            
 * WIFI信号觉得不好？：首先请关闭使用5G优选（智能选频），然后2.4G信号锁死在20MHz，5G信号锁死在你的手机等设备支持到的最高的即可（最近160MHz的也都开始普及了...），这样你离天线远时手动连2.4G信号，离得近时手动连5G信号                  
 * 基于Chromium内核的浏览器建议关闭QUIC：[教程](https://www.echoteen.com/turnoff-quic.html)               
-* 修改win10的tcp配置参数来提升打开youtube的速度：[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)             
+* 修改win10的tcp配置参数来提升打开youtube的速度：[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)           
+
 ------------------------------------------------------------------------------------------------------------
 【作者：big东东】           
-* 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：[教程](https://youtu.be/c4HSZzTM7G0)                        
+* 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：[教程](https://youtu.be/c4HSZzTM7G0)             
+
 ------------------------------------------------------------------------------------------------------------
 【作者：luckyyyyy】     
-* 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：[教程](https://github.com/luckyyyyy/blog/issues/44)        
+* 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：[教程](https://github.com/luckyyyyy/blog/issues/44)         
+
 ------------------------------------------------------------------------------------------------------------    
 【作者：IT奶爸】【请注意按顺序看，后期可能会推翻前期的结论...】【玩DNS并不是必须的操作，甚至效果也不是特别明显，小白可以忽略涉及玩DNS的教程，猛禽会直接close掉有关DNS的issue...】                    
 * ①passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)             
@@ -28,7 +31,8 @@
 * ③PassWall&SmartDNS&CDN：[教程](https://youtu.be/nGNoG1rV6pw)             
 * ④passwall smartdns终极奥义...：[教程](https://youtu.be/rfotrfMJ9QM)              
 * ⑤不允许访客使用代理、自由指定不同客户端使用不同线路（盒子看Netflix）：[教程](https://youtu.be/qkga9DN5H08)        
-* ⑥PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)                    
+* ⑥PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)                   
+
 -------------------------------------------------------------------------------------------------------------
 * 小提示：使用负载均衡同样可以实现故障切换的功能          
 * passwall的恢复默认配置方法：地址栏输入例：                      
@@ -38,6 +42,5 @@
   当你隐藏后想再次显示，地址栏输入例：                  
   http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/show                 
   
-  ------------------------------------------------------------------------------------------------------------
      
 
