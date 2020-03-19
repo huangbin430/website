@@ -12,10 +12,8 @@
 基于coolsnowwolf冷雪狼（Lean/大雕）lede的fork。                      
 额外支持主要由伟大的Lean特别驱动和优化的一些硬路由设备。                  
 支持勾选主要由Lienol维护的passwall+一些其他开发者的伟大的开源luci-app。     
-
-【编译知识】：           
-OpenWrt Configuration【OpenWrt配置】         
-
+       
+OpenWrt Configuration OpenWrt配置         
 Target System (x86) 目标系统（x86）             
 Subtarget (x86_64) 子目标（x86_64）          
 Target Profile (Generic) 目标配置文件（通用）            
