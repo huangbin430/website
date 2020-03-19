@@ -22,7 +22,7 @@
 【作者：luckyyyyy】     
 * 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：[教程](https://github.com/luckyyyyy/blog/issues/44)        
 ------------------------------------------------------------------------------------------------------------    
-【作者：IT奶爸】【请注意按顺序看，后期可能会推翻前期的结论...】【玩DNS并不是必须的操作，甚至效果也不是特别明显，小白可以忽略设计及DNS的教程，猛禽会直接close掉有关DNS的issue...】                    
+【作者：IT奶爸】【请注意按顺序看，后期可能会推翻前期的结论...】【玩DNS并不是必须的操作，甚至效果也不是特别明显，小白可以忽略涉及玩DNS的教程，猛禽会直接close掉有关DNS的issue...】                    
 * ①passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)             
 * ②PassWall SmartDNS ChinaDNS-NG：[教程](https://youtu.be/vqAeeLbqvOs)             
 * ③PassWall&SmartDNS&CDN：[教程](https://youtu.be/nGNoG1rV6pw)             
