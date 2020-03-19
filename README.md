@@ -5,9 +5,10 @@
 * passwall固件主频道（源码更新内容、x86_64/x86架构设备的passwall固件）：[主频道](https://t.me/passwall)               
 * passwall固件分频道（其他架构设备的passwall固件）：[分频道](./sub.md)            
 * passwall固件教程：[教程](./tips.md)           
-* passwall固件源码：[源码](./code.md)                                    
+* passwall固件源码：[源码](./code.md)          
+* [优选机场](./air.md)               
 [![](https://pic.downk.cc/item/5e6f62a0e83c3a1e3a8812e2.jpg)](https://pic.downk.cc/item/5e6f62a0e83c3a1e3a8812e2.jpg)             
-* 推荐机场：暂无            
+                  
     
         
         
