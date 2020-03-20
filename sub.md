@@ -1,5 +1,8 @@
 此页面最近一次更新时间：2020.03.19           
-[返回到首页](https://passwallopenwrt.github.io/website/)                                 
+[返回到首页](https://passwallopenwrt.github.io/website/)           
+
+[telegram汉化](https://t.me/cn_telegram)                 
+
 为了懒得编译及学编译的群友们，特成立了众多的分频道用于分发热情分享的群友编译的固件（爬墙插件只要一个passwall插件），一个频道只能一个人申请成为固件分发的分频道主，列表没有你想做的频道可以告知管理员帮你建立，申请请私信联系：[群管理员](https://t.me/wefuxkgfw)。福利就是你可以自由地在你的分频道里发任何广告，管理员不会干涉你，管理员也无权在你的频道发广告                   
 （passwall在VPN菜单下！！不在服务菜单下！！）              
 【r2s 】：     
