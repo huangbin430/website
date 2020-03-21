@@ -1,8 +1,8 @@
 此页面最近一次更新时间：2020.03.19              
 [返回到首页](https://passwallopenwrt.github.io/website/)                
 passwall有问题？请更新到最新版本再测试是否复现。           
-在源码的github反馈issue问题时，请附带passwall日志，并确认你当前使用的passwall是最新版本，否则直接无视close。           
-任何玩DNS玩出事，设置不当导致的你认为不好用，觉得垃圾的。请不要使用！       
+github反馈issue问题时，请附带passwall日志，并确认你当前使用的passwall是最新版本，否则直接无视close。           
+任何玩DNS玩出事，设置不当导致的你认为不好用，觉得垃圾的，请不要使用！       
 
 ① [https://github.com/Lienol/openwrt/tree/dev-19.07](https://github.com/Lienol/openwrt/tree/dev-19.07)                     
 基于官方openwrt的fork，使用luci18，默认分支。        
