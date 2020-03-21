@@ -1,4 +1,4 @@
-此页面最近一次更新时间：2020.03.19                 
+此页面最近一次更新时间：2020.03.21                 
 [返回到首页](https://passwallopenwrt.github.io/website/)          
 * “旁路由”模式下，无法访问国内网络，在防火墙自定义规则添加：           
 iptables -t nat -I POSTROUTING -j MASQUERADE                 
