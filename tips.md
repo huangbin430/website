@@ -1,6 +1,8 @@
 此页面最近一次更新时间：2020.03.19                 
 [返回到首页](https://passwallopenwrt.github.io/website/)          
-
+* “旁路由”模式下，无法访问国内网络，在防火墙自定义规则添加：           
+iptables -t nat -I POSTROUTING -j MASQUERADE                 
+* 默认未设置允许的设备不能使用代理、自由指定不同客户端使用不同线路（盒子看Netflix）：[教程](https://youtu.be/qkga9DN5H08)         
 * 开源项目，没有团队负责内测，每次提交完代码都是大家公测。你能正常用老版本就没必要追更新！
 * 不保留配置升级：[图文](./upgrade.md)                 
 * 请务必保持启用passwall的高级设置里的守护进程！      
@@ -30,8 +32,7 @@
 * ②PassWall SmartDNS ChinaDNS-NG：[教程](https://youtu.be/vqAeeLbqvOs)             
 * ③PassWall&SmartDNS&CDN：[教程](https://youtu.be/nGNoG1rV6pw)             
 * ④passwall smartdns终极奥义...：[教程](https://youtu.be/rfotrfMJ9QM)              
-* ⑤不允许访客使用代理、自由指定不同客户端使用不同线路（盒子看Netflix）：[教程](https://youtu.be/qkga9DN5H08)        
-* ⑥PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)                   
+* ⑤PassWALL SmartDNS离散协同 完美优化：[教程](https://youtu.be/GIhD31EpMwU)                   
 
 -------------------------------------------------------------------------------------------------------------
 * 小提示：使用负载均衡同样可以实现故障切换的功能          
