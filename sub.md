@@ -25,8 +25,10 @@
 [https://t.me/joinchat/AAAAAFU4sJP0nsoDwbru4Q](https://t.me/joinchat/AAAAAFU4sJP0nsoDwbru4Q)               
 【竞斗云2】:           
 [https://t.me/joinchat/AAAAAFVEr3oUhHaupmKjqA](https://t.me/joinchat/AAAAAFVEr3oUhHaupmKjqA)                 
-【新3】：         
-[https://t.me/joinchat/AAAAAEsmOqqzZHffzlclKQ](https://t.me/joinchat/AAAAAEsmOqqzZHffzlclKQ)           
+【新3d2】：         
+[https://t.me/joinchat/AAAAAEsmOqqzZHffzlclKQ](https://t.me/joinchat/AAAAAEsmOqqzZHffzlclKQ)          
+【新2d1】:
+[https://t.me/joinchat/AAAAAFfv41VHnHMi-xS91A](https://t.me/joinchat/AAAAAFfv41VHnHMi-xS91A)        
 【acrh17】：                       
 [https://t.me/acrh17passwall](https://t.me/acrh17passwall)                        
 【wrt1200ac】：            
