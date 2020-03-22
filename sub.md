@@ -18,7 +18,9 @@
 【树莓派3b】：        
 [https://t.me/RaspberryPi3Bpasswall](https://t.me/RaspberryPi3Bpasswall)              
 【k2p】：       
-[https://t.me/k2ppasswall](https://t.me/k2ppasswall)            
+[https://t.me/k2ppasswall](https://t.me/k2ppasswall)       
+【k2】:        
+[https://t.me/joinchat/AAAAAE3h_YQ4Q5XbgdKy8g](https://t.me/joinchat/AAAAAE3h_YQ4Q5XbgdKy8g)               
 【竞斗云2】:           
 [https://t.me/joinchat/AAAAAFVEr3oUhHaupmKjqA](https://t.me/joinchat/AAAAAFVEr3oUhHaupmKjqA)                 
 【新3】：         
